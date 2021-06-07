@@ -1,0 +1,15 @@
+/Users/macmini/Documents/DIO.series/bin/Debug/net5.0/DIO.series.deps.json
+/Users/macmini/Documents/DIO.series/bin/Debug/net5.0/DIO.series.runtimeconfig.json
+/Users/macmini/Documents/DIO.series/bin/Debug/net5.0/DIO.series.runtimeconfig.dev.json
+/Users/macmini/Documents/DIO.series/bin/Debug/net5.0/DIO.series.dll
+/Users/macmini/Documents/DIO.series/bin/Debug/net5.0/ref/DIO.series.dll
+/Users/macmini/Documents/DIO.series/bin/Debug/net5.0/DIO.series.pdb
+/Users/macmini/Documents/DIO.series/obj/Debug/net5.0/DIO.series.csprojAssemblyReference.cache
+/Users/macmini/Documents/DIO.series/obj/Debug/net5.0/DIO.series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macmini/Documents/DIO.series/obj/Debug/net5.0/DIO.series.AssemblyInfoInputs.cache
+/Users/macmini/Documents/DIO.series/obj/Debug/net5.0/DIO.series.AssemblyInfo.cs
+/Users/macmini/Documents/DIO.series/obj/Debug/net5.0/DIO.series.csproj.CoreCompileInputs.cache
+/Users/macmini/Documents/DIO.series/obj/Debug/net5.0/DIO.series.dll
+/Users/macmini/Documents/DIO.series/obj/Debug/net5.0/ref/DIO.series.dll
+/Users/macmini/Documents/DIO.series/obj/Debug/net5.0/DIO.series.pdb
+/Users/macmini/Documents/DIO.series/obj/Debug/net5.0/DIO.series.genruntimeconfig.cache
